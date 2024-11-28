@@ -22,7 +22,7 @@
             <a href="#" class="text-white me-3"><i class="fab fa-instagram"></i></a>
             <a href="#" class="text-white"><i class="fab fa-linkedin-in"></i></a>
         </div>
-        <p class="mb-0">&copy; <?php echo date("Y"); ?> Expense Tracker. All rights reserved.</p>
+        <p class="mb-0">&copy; <?php echo date("Y"); ?> EcoSpend. All rights reserved.</p>
     </div>
 </footer>
 </body>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Features - Expense Tracker</title>
+    <title>Features - EcoSpend</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css">
     <style>
         .feature-card {
@@ -67,7 +67,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Mobile-Friendly</h5>
                             <hr>
-                            <p class="card-text">Access your expense tracker on the go with a fully responsive design optimized for mobile devices.</p>
+                            <p class="card-text">Access your EcoSpend on the go with a fully responsive design optimized for mobile devices.</p>
                         </div>
                     </div>
                 </div>
